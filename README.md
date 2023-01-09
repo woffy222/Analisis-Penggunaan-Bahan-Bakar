@@ -1,6 +1,6 @@
 # Analisis Penggunaan Bahan Bakar - Mohammad Rafdi
 ## Domain Proyek
-Behan Bakar merupakan sebuah komponen utama dalam menggunaan kendaraan maka dari itu dalam projek ini penulis melakukan pemodelan ML dengan memprediksi beberapa variabel yang mempengaruhi jarak tempuh dan berapa banyak bahan bakar yang dibutuhkan untuk menempuh perjalanan
+Bahan Bakar merupakan sebuah komponen utama dalam menggunaan kendaraan maka dari itu dalam projek ini penulis melakukan pemodelan ML dengan memprediksi beberapa variabel yang mempengaruhi jarak tempuh dan berapa banyak bahan bakar yang dibutuhkan untuk menempuh perjalanan
 
 ## Data Understanding
 Dataset yang digunakan adalah [Bahan Bakar](http://buku.dioskurn.com/buku1/ch4/)
